@@ -3,3 +3,4 @@ let result = arr.reduce((a,b) => {
     return a+b;
 })
 console.log(result);
+console.log("result");
